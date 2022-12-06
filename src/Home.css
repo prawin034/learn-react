@@ -1,0 +1,13 @@
+.btnhandler {
+  margin: 30px auto;
+  background-color: blueviolet;
+  font-size: 30px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: none;
+  padding: 20px;
+  width: 50%;
+  border-radius: 1.2rem;
+  cursor: pointer;
+}

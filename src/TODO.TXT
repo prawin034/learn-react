@@ -1,0 +1,41 @@
+
+                TO-DO LIST BOX  -> DEC-06-2022  
+
+  
+
+  1.  STYLING REACT COMPONENTS 
+
+  2.  DEBUGGING REACT APPS 
+
+  3.  PRACTICE PROJECT - FOOD ORDER APP 
+
+    3PM DEADLINE 
+  <------------------------------------------------------> 30MINUTES BREAK 
+  
+  4. NODE JS REVIEW - BEHIND THE SCENES  INTRO TO BACKEND 
+  
+  5. REVIEW WHAT WE LEARNED REACT -UDEMY  
+   
+   5PM DEADLINE
+  <-------------------------------------------------------->
+
+
+  6. DIVING DEEPER:WORKING WITH FRAGMENTS 
+  <-------------------------------------------------------->
+  7. REACT -BUILD TODO LIST APP 
+  <-------------------------------------------------------->
+  8. YOUTUBE LECTURE  
+     
+     -> REACT VIDEOS 
+       ->INTRODUCTION
+       ->HELLO WORLD
+       ->FOLDER STRUCTURE
+       ->COMPONENTS
+       ->FUNCTIONAL COMPONENTS
+       ->HOOKS UPDATE
+       ->JSX
+       ->PROPS
+       ->STATE
+       ->SETSTATE
+     
+     
